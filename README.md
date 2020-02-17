@@ -8,6 +8,7 @@
 
 
 ![JDK 8](https://img.shields.io/badge/JDK-8-blue.svg)
+https://travis-ci.org/dor245/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master
 ![Gradle](https://img.shields.io/badge/gradle-2-blue.svg)
 ![JUnit 4](https://img.shields.io/badge/JUnit-4-blue.svg)
 
